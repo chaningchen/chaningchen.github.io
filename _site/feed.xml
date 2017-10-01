@@ -6,42 +6,94 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Sep 2017 23:46:25 +0800</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2017 23:46:25 +0800</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
+    <pubDate>Sun, 01 Oct 2017 12:11:55 +0800</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2017 12:11:55 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>zj烧烤店</title>
+        <description>&lt;h2 id=&quot;这里是张江烧烤店&quot;&gt;这里是张江烧烤店&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/skd.jpg&quot; alt=&quot;Alt text&quot; /&gt;
+asdfadsf&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Oct 2017 09:59:30 +0800</pubDate>
+        <link>http://localhost:4000/%E7%94%9F%E6%B4%BB/2017/10/01/skd.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%E7%94%9F%E6%B4%BB/2017/10/01/skd.html</guid>
+        
+        <category>life</category>
+        
+        
+        <category>生活</category>
+        
+      </item>
     
       <item>
         <title>马来西亚肉骨茶</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;简介&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;大标题&quot;&gt;大标题&lt;/h1&gt;
+&lt;h2 id=&quot;简介&quot;&gt;简介&lt;/h2&gt;
+&lt;h3 id=&quot;三级&quot;&gt;三级&lt;/h3&gt;
+&lt;h4 id=&quot;4&quot;&gt;4&lt;/h4&gt;
+&lt;h5 id=&quot;5&quot;&gt;5&lt;/h5&gt;
+
+&lt;h2 id=&quot;zhelijiushi-yig-duanl&quot;&gt;zhelijiushi yig duanl&lt;/h2&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;马来西亚肉骨茶是一种马来西亚的一道美食，主要原料是猪大排和当归。据说，食用了马来西亚肉骨茶之后，可以逆转桥本氏甲状腺炎。&lt;/p&gt;
+  &lt;p&gt;sadfsd&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/rgc.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;1&lt;/li&gt;
+  &lt;li&gt;34
+    &lt;ol&gt;
+      &lt;li&gt;4&lt;/li&gt;
+      &lt;li&gt;2&lt;/li&gt;
+      &lt;li&gt;3&lt;/li&gt;
+    &lt;/ol&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;用料&lt;/h2&gt;
+    &lt;p&gt;hello world&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is &lt;a href=&quot;http://www.baidu.com&quot; title=&quot;this is aa&quot;&gt;an example&lt;/a&gt; inline link.
+This is &lt;a href=&quot;http://www.baidu.com&quot; title=&quot;this is aa&quot;&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;马来西亚肉骨茶是一种 &lt;del&gt;马来西亚&lt;/del&gt; 的一道美食，主要原料是猪大排和当归。据说，&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;食用了马来西亚肉骨茶之后，可以逆转桥本氏甲状腺炎。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/rgc.jpg&quot; alt=&quot;no img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;用料&quot;&gt;用料&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;猪大排500克&lt;/li&gt;
   &lt;li&gt;当归1块&lt;/li&gt;
   &lt;li&gt;枸杞子1把&lt;/li&gt;
   &lt;li&gt;黑枣(有核)2个&lt;/li&gt;
-  &lt;li&gt;川芎适量&lt;/li&gt;
-  &lt;li&gt;玉竹适量&lt;/li&gt;
-  &lt;li&gt;熟地黄适量&lt;/li&gt;
-  &lt;li&gt;桂皮1块&lt;/li&gt;
+  &lt;li&gt;川芎适量
+    &lt;ul&gt;
+      &lt;li&gt;玉竹适量
+        &lt;ul&gt;
+          &lt;li&gt;熟地黄适量&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;桂皮1块&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;食盐4克&lt;/li&gt;
   &lt;li&gt;蒜2头&lt;/li&gt;
   &lt;li&gt;白胡椒适量&lt;/li&gt;
   &lt;li&gt;白酒少许&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;具体做法&lt;/h2&gt;
+&lt;h2 id=&quot;具体做法&quot;&gt;具体做法&lt;/h2&gt;
 &lt;p&gt;请参考 &lt;a href=&quot;http://www.xiachufang.com/recipe/100505980/&quot;&gt;点击这里&lt;/a&gt;。&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 27 Sep 2017 06:56:46 +0800</pubDate>
-        <link>http://localhost:4000/%E7%94%9F%E6%B4%BB/2017/09/27/make-rgc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/%E7%94%9F%E6%B4%BB/2017/09/27/make-rgc.html</guid>
+        <link>http://localhost:4000/%E7%94%9F%E6%B4%BB/2017/09/26/make-rgc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%E7%94%9F%E6%B4%BB/2017/09/26/make-rgc.html</guid>
         
         <category>dish</category>
         
