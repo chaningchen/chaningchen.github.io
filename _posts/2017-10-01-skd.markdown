@@ -8,4 +8,3 @@ tags: life
 
 ## 这里是张江烧烤店
 ![Alt text](/assets/img/skd.jpg)
-asdfadsf
